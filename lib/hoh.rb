@@ -59,8 +59,8 @@ naming_system = {
             }
           }
         }
-        }
       }
     }
   }
+}
 end
